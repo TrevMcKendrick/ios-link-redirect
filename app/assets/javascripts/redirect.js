@@ -1,6 +1,6 @@
 
 setTimeout(function() {
-  window.location = "https://itunes.apple.com/us/app/la-biblia-reina-valera-estudio/id519625336?mt=8";
+  window.location = "https://itunes.apple.com/us/app/la-biblia-reina-valera-estudio/id519625336?mt=8&uo=4&at=10l4Pq";
 }, 25);
 
 // If "custom-uri://" is registered the app will launch immediately and your
