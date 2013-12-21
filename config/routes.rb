@@ -2,7 +2,7 @@ IosLinkRedirect::Application.routes.draw do
 
   root :to => 'redirect#index'
 
-  get ':controller/:action/:uuid'
+  get '/:uuid' => 'redirect#index'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
