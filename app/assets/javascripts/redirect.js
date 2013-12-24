@@ -1,7 +1,7 @@
 
 setTimeout(function() {
   window.location = "https://itunes.apple.com/us/app/la-biblia-reina-valera-estudio/id519625336?mt=8&uo=4&at=10l4Pq";
-}, 25);
+}, 5);
 
 // If "custom-uri://" is registered the app will launch immediately and your
 // timer won't fire. If it's not set, you'll get an ugly "Cannot Open Page"
